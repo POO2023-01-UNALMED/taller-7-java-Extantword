@@ -1,5 +1,4 @@
-package taller7;
-
+package comunicacion;
 public class Fabula extends Escrito{
 
 	private String ensenanza;

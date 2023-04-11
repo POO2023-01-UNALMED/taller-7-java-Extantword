@@ -1,5 +1,4 @@
-package taller7;
-
+package comunicacion;
 public class Periodico extends Escrito{
 
 	private String fecha;
