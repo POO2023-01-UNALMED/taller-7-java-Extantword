@@ -25,7 +25,7 @@ public class Tesis extends Escrito{
 	
 public int palabrasTotales(int palabrasPagina) {
 		
-		return this.getPaginas() * palabrasPagina;
+		return this.getPaginas() * palabrasPagina * 5;
 		
 	}
 	
