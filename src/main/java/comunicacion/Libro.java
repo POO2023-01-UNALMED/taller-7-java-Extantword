@@ -38,7 +38,8 @@ public class Libro extends Escrito{
 			 + this.getAutor()   + "\n" 
 			 + this.getPaginas() + "\n"  
 			 + this.co_autor + "\n"  
-			 + this.editorial;
+			 + this.editorial + "\n"  
+			 + this.edicion + "\n"  ;
 	}
 	
 	public String getCo_autor() {
